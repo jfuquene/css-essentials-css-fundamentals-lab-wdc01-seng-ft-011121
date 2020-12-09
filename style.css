@@ -40,8 +40,9 @@ body {
   display: inline-block;
 }
 
-#second {
-  float: right;
+ #details div{
+  float: left;
+  width: 25px;
 }
 
 
