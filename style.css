@@ -30,7 +30,9 @@ body {
 #featured-property p {
   
   text-align: center;
-  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
   
   
 }
