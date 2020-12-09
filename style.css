@@ -37,11 +37,12 @@ body {
 
  #details {
   display: block;
-  background-color: #FF0000; 
+
 }
  
  #details div {
    float: left;
+   background-color: #FF0000;
  }
 
 
