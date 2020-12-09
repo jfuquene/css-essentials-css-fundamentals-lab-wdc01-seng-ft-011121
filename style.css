@@ -17,8 +17,11 @@ figcaption {
  .nav {
   text-align: center;
   background-color: #90ee90;
-  
 }
+ .nav a {
+   padding-right: 10px;
+   padding-left: 10px;
+ }
 
 body {
   width: 100%;
