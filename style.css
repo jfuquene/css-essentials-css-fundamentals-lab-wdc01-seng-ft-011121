@@ -35,10 +35,6 @@ body {
   width: 800px;
 }
 
- #details {
-  
-  display: inline-block;
-}
 
  #details div{
   float: left;
