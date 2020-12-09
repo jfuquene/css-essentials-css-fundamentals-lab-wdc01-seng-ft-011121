@@ -37,6 +37,7 @@ body {
 
  #details {
   display: block;
+  background-color: blue; 
 }
  
  #details div {
