@@ -16,8 +16,8 @@ figcaption {
 
  nav a {
   text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
   background-color: #90ee90;
 }
 
